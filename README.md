@@ -1,4 +1,6 @@
-# shellcursive: Apply CLI commands to ALL the folders you like 🌈
+# shellcursive ⛏️
+
+> Apply CLI commands to ALL the folders you like 🌈
 
 Has this ever happened to you?
 
